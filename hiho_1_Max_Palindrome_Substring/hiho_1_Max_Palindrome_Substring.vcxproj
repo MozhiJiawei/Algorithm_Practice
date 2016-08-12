@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9D0BFBBC-D88D-4184-9DDB-2E2F585B8447}</ProjectGuid>
-    <RootNamespace>sort_algrithom</RootNamespace>
+    <ProjectGuid>{576D4199-9C11-48CA-8FB9-5EBB2164D88A}</ProjectGuid>
+    <RootNamespace>hiho_1_Max_Palindrome_Substring</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="hiho_1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
